@@ -13,11 +13,11 @@ export const Content = () => {
         <div style={{backgroundColor:'rgb(240, 234, 234)', borderRadius:"10px"}}>
         <p style={{fontSize:"1.4em",marginRight:"10px",marginLeft:'10px'}} >Built Wicket longer admire do barton vanity itself do in it. Preferred to sportsmen it engrossed listening. Park gate sell they west hard for the.</p>
         <p style={{textAlign:"center"}}><button color='yellow'>find out more</button>
-        <img style={{marginTop:'10px', marginLeft:'15px'}}width="30px" height="40px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk5gzKL4CShbyE7sy68A4ALamIUSccQ2kdQ&usqp=CAU'/>play now</p>
+        <img alt=" " style={{marginTop:'10px', marginLeft:'15px'}}width="30px" height="40px" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk5gzKL4CShbyE7sy68A4ALamIUSccQ2kdQ&usqp=CAU'/>play now</p>
         </div>
         </div>
         <div className='col-7'>
-        <img  background-repeat='no-repeat' src={Traveller} alt=""/>
+        <img   background-repeat='no-repeat'style={{marginTop:'10px', marginRight:'25px'}} src={Traveller} alt=""/>
        </div>
         
     </div>
