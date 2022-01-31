@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_app/static/css/main.f5bf8b7e.css",
+    "main.js": "/react_app/static/js/main.115a31a6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Traveller.png": "/react_app/static/media/Traveller.20f27ec639dd3520e3ac.png",
+    "static/media/logo.svg": "/react_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_app/index.html",
+    "main.f5bf8b7e.css.map": "/react_app/static/css/main.f5bf8b7e.css.map",
+    "main.115a31a6.js.map": "/react_app/static/js/main.115a31a6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5bf8b7e.css",
+    "static/js/main.115a31a6.js"
+  ]
+}
